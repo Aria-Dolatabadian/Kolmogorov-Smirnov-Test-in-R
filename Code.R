@@ -1,3 +1,4 @@
+library(dgof)
 # Read the CSV files
 x <- read.csv("x.csv", header = FALSE)
 y <- read.csv("y.csv", header = FALSE)
